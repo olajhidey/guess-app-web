@@ -1,7 +1,7 @@
 // const socket = io("http://localhost:3000")
 
 const { createApp } = Vue
-const BASE_URL = "https://zr54q3zh-8080.uks1.devtunnels.ms"
+const BASE_URL = "https://guess-admin.onrender.com"
 var socket = null
 const LoginPage = {
   template: `
